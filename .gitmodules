@@ -1,0 +1,6 @@
+[submodule "apps/homepage"]
+	path = apps/homepage
+	url = git@github.com:khoidh24/homepage-submodules.git
+[submodule "apps/docs"]
+	path = apps/docs
+	url = git@github.com:khoidh24/docs-submodules.git
